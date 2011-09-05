@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">SuperdrySampleAnimation</string>
+	<string name="goto_github">Go to GitHub</string>
+	<string name="message">SuperdrySampleAnimation is build-in animation
+		samples for Android. This app is demonstration. This source code is in GitHub
+		 ( https://github.com/superdry/SuperdrySampleAnimation ).</string>
+</resources>
